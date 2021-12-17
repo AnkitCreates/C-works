@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(){
+
+    int a,b,c;
+    scanf("%d %d %d",&a,&b,&c);
+    printf("The decimal to Char for:\n%d=%c\n%d=%c\n%d=%c\n",a,a,b,b,c,c);
+
+return 0;
+}
